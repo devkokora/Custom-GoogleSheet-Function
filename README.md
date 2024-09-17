@@ -2,10 +2,11 @@
 
 Creating a Google Sheet with [The Oxford 3000](https://github.com/sapbmw/The-Oxford-3000?tab=readme-ov-file) vocabulary words with Part of Speech and Thai translation
 </br>
+
 [Preview CSV file](Words.csv)
 </br>
-Set Up Google Sheets with Google Apps Script
 
+<ins><b>Set Up Google Sheets with Google Apps Script</b></ins>
 1. Create a Google Sheet:
 2. Put all the words you want to translate into one of the columns.
 3. Custom Google Apps Script: (Part of Speech - API: https://victorribeiro.com/pos/)
