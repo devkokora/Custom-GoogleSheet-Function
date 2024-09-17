@@ -1,8 +1,8 @@
 # GoogleSheets Custom API Words Translation (EN-TH)
 
-Creating a Google Sheet with 3,000+ English vocabulary words with Part of Speech and Thai translation
+Creating a Google Sheet with [The Oxford 3000](https://github.com/sapbmw/The-Oxford-3000?tab=readme-ov-file) vocabulary words with Part of Speech and Thai translation
 </br>
-[Completed CSV file](Words.csv)
+[Preview CSV file](Words.csv)
 </br>
 Set Up Google Sheets with Google Apps Script
 
