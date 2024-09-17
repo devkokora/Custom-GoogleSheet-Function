@@ -1,7 +1,7 @@
 # GoogleSheets Custom API Words Translation (EN-TH)
 
 Creating a Google Sheet with 3,000+ English vocabulary words with Part of Speech and Thai translation
-
+[Completed CSV file](Words.csv)
 Set Up Google Sheets with Google Apps Script
 
 1. Create a Google Sheet:
