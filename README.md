@@ -16,4 +16,4 @@ Set Up Google Sheets with Google Apps Script
    Use the formula in a cell like this "=getPartOfSpeech(selected cell)"
 5. Built-in GoogleSheet Function (Google Translation: https://support.google.com/docs/answer/3093331)
    </br>
-   eg. GOOGLETRANSLATE( A1, "en", "th" ) Enlish -> Thai
+   eg. GOOGLETRANSLATE( A1, "en", "th" ) English -> Thai
